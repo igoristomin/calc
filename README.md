@@ -24,8 +24,8 @@ integers and decimals.
 ## Release notes
 * Project type: REST API
 * Date of release: 13 February 2022
-* Date of last update: 16 February 2022
-* Current version: 1.2
+* Date of last update: 30 March 2022
+* Current version: 1.3
 
 ---
 Author [Igor Istomin](https://github.com/igoristomin)
