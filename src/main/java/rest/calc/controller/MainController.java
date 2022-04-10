@@ -16,7 +16,7 @@ public class MainController {
         // Output format
         DecimalFormat df = new DecimalFormat("0.###");
 
-        switch (op) {
+        switch(op) {
             // Add
             case "add":
                 result = num + num2;
