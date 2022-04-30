@@ -26,6 +26,3 @@ integers and decimals.
 * Date of release: 13 February 2022
 * Date of last update: 20 April 2022
 * Current version: 1.5
-
----
-Author [Igor Istomin](https://github.com/igoristomin)
