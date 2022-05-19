@@ -1,17 +1,11 @@
 package rest.calc.controller;
 
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MainControllerTest {
 
-    private MainController mainController;
-
-    @BeforeEach
-    void setUp() {
-        mainController = new MainController();
-    }
+    private final MainController mainController = new MainController();
 
     // Add
     @Test
