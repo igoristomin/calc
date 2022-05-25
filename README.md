@@ -1,8 +1,8 @@
 # Calc
 
 ## Description
-Simple REST API calculator. Includes basic functions: addition, subtraction, multiplication, division. Works with
-integers and decimals.
+A simple REST API calculator. It includes the main functions: addition, subtraction, multiplication, division. Works
+with integers and decimals.
 
 ## Used tools
 * Platform: Spring Boot 2.6.3
@@ -15,11 +15,11 @@ integers and decimals.
 * Application properties: /src/main/resources/application.properties
 
 ## Backend schema
-![Element relationships](readme/back-schema.svg)
+![Relationships of elements](readme/back-schema.svg)
 
 ## Installation
-1. Run this project in development environment
-2. Open for example http://localhost:8081/?op=add&num=1&num2=0.0015 in browser
+1. Run this project in a development environment
+2. Open for example http://localhost:8081/?op=add&num=1&num2=0.0015 in the browser
 
 ## Release notes
 * Project type: REST API
