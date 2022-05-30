@@ -8,7 +8,7 @@ import java.text.DecimalFormat;
 @RestController
 public class MainController {
 
-    // Example: http://localhost:8081/?op=add&num=1&num2=0.0015
+    // Example: http://localhost:8080/?op=add&num=1&num2=0.0015
     @GetMapping("/")
     public String showIndex(@RequestParam String op, @RequestParam double num, @RequestParam double num2) {
         double result;
