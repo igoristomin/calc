@@ -7,7 +7,7 @@ with integers and decimals.
 ## Used tools
 * Platform: Spring Boot 2.6.3
 * Builder: Gradle
-* Languages: Java 8 (JDK 8)
+* Languages: Java 8
 * Dependencies: Spring Web
 
 ## Important files
