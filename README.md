@@ -1,4 +1,4 @@
-# Calc
+# Calculator
 
 ## Description
 A simple REST API calculator. It includes the main functions: addition, subtraction, multiplication, division. Works
