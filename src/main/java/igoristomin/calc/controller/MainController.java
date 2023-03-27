@@ -1,4 +1,4 @@
-package rest.calc.controller;
+package igoristomin.calc.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

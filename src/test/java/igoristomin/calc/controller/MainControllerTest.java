@@ -1,4 +1,4 @@
-package rest.calc.controller;
+package igoristomin.calc.controller;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;

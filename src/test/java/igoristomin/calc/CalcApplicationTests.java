@@ -1,4 +1,4 @@
-package rest.calc;
+package igoristomin.calc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
