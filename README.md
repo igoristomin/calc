@@ -24,5 +24,5 @@ with integers and decimals.
 ## Release notes
 * Project type: REST API
 * Date of release: 13 February 2022
-* Date of last update: 16 March 2023
-* Current version: 1.12
+* Date of last update: 27 March 2023
+* Current version: 2.0
