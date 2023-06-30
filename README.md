@@ -8,7 +8,6 @@ with integers and decimals.
 * Platform: Spring Boot 2.6.3
 * Builder: Gradle 7.4
 * Languages: Java SE 8u311
-* Dependencies: Spring Web
 
 ## Important files
 * Builder configuration: /build.gradle
