@@ -13,9 +13,6 @@ with integers and decimals.
 * Builder configuration: /build.gradle
 * Application properties: /src/main/resources/application.properties
 
-## Backend schema
-![Relationships of elements](readme/back-schema.svg)
-
 ## Installation
 1. Run this project in a development environment
 2. Open for example http://localhost:8080/?op=add&num=1&num2=0.0015 in the browser
